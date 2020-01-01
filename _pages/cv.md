@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is a regular paragraph.
+Here is my resume.
 
 <table>
     <tr>
@@ -17,4 +17,4 @@ This is a regular paragraph.
     </tr>
 </table>
 
-This is another regular paragraph.
+
