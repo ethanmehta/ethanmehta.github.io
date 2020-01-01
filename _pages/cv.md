@@ -13,7 +13,7 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td><iframe src="https://www.w3schools.com"></iframe></td>
     </tr>
 </table>
 
