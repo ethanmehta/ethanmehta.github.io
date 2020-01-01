@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Gang Life Chose Me"
-excerpt: "About me"
+excerpt: "Crazy Dogs"
 author_profile: true
 redirect_from: 
   - /about/
