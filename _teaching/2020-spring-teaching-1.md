@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Berkeley, CA, USA"
 ---
 
-Find course materials for CS 61B here.
+Find course materials I have created for CS 61B here.
 
 Slides
 ======
