@@ -1,7 +1,7 @@
 ---
 title: "Micromouse DeCal: Spring 2020"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Lab DeCal"
 permalink: /teaching/2020-spring-teaching-2
 venue: "University of California, Berkeley, Electrical Engineering, Computer Science Department"
 date: 2020-01-01
