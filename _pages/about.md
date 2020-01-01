@@ -12,8 +12,8 @@ I was born in the Year 1632, in the City of York, of a good Family, tho' not of 
 
 The above excerpt is not entirely accurate. My name is actually Ethan Mehta and I'm a undergraduate at UC Berkeley in the Class of 2022 studying Electrical Engineering, Computer Science, and Business Administration.
 
-This semester I am helping teach Berkeley's CS 61B Data Structures as a uGSI/TA, so if you want to see discussion material and course go ahead and navigate to the Teaching section of my website. 
+This semester I am helping teach Berkeley's CS 61B Data Structures as a uGSI/TA, so if you want to see discussion and/or course content I have created go ahead and navigate to the Teaching section of my website. 
 
-As I have time, I will continue to update my portfolio with cool projects I've been working on and articles I've written on Medium. I also have some fun games under the Random section that I have made so feel free to check those out.
+I will continue to update my portfolio with cool projects I've been working on and articles I've written on Medium.  
 
-Thanks for checking out my webpage!
+
