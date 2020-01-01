@@ -9,4 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src = "https://daringfireball.net/projects/markdown/syntax#html/>
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
