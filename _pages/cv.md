@@ -13,7 +13,7 @@ Here is my resume.
 
 <table>
     <tr>
-        <td><iframe src="https://www.w3schools.com"></iframe></td>
+       
     </tr>
 </table>
 
